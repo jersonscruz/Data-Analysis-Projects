@@ -6,7 +6,7 @@ Below are data analysis projects I have completed independently by utilizing Pyt
 
 1) [Human Resources Analysis](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2001%20Human%20Resources%20Analysis.ipynb)
   
-      Below are links to Tableau dashboard relevant to the Human Resources Analysis project above:
+      Below are links to Tableau dashboards relevant to the Human Resources Analysis project above:
   
       - [Human Resources: Organizational Summary Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/HROrganizationalSummary/DBOrgSummary)
       - [Human Resources: Hires and Terminations Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/HRHiresandTerminations/DBHiresTerms)
