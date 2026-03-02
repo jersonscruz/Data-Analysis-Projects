@@ -4,27 +4,36 @@ Below are data analysis projects I have completed independently by utilizing Pyt
 
 <br>
 
-1) [Top 300 YouTube Channels](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2001%20Top%20300%20YouTube%20Channels.ipynb)
+1) [Human Resources Analysis](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2001%20Human%20Resources%20Analysis.ipynb)
+  
+      Below are links to Tableau dashboard relevant to the Human Resources Analysis project above:
+  
+      - [Human Resources: Organizational Summary Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/HROrganizationalSummary/DBOrgSummary)
+      - [Human Resources: Hires and Terminations Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/HRHiresandTerminations/DBHiresTerms)
+      - [Human Resources: Performance and Engagement Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/HRPerformanceandEngagement/DBPerfEngagement)
+<br>
+
+2) [Top 300 YouTube Channels](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2002%20Top%20300%20YouTube%20Channels.ipynb)
   
       Below is a link to a Tableau dashboard relevant to the Top 300 YouTube Channels project above:
   
-      - [Top 300 YouTube Channels Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannelsDashboard001/DashboardTopYT001)
+      - [Top 300 YouTube Channels Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/DashboardTableau02Top300YouTubeChannels/DashboardTopYT001)
   
 <br>
 
-2) [Best-Selling Video Games](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2002%20Best-Selling%20Video%20Games.ipynb)
+3) [Best-Selling Video Games](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2003%20Best-Selling%20Video%20Games.ipynb)
   
       Below is a link to a Tableau dashboard relevant to the Best-Selling Video Games project above:
   
-      - [Best-Selling Video Games Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/Best-SellingVideoGamesDashboard/DashboardBSVG001)
+      - [Best-Selling Video Games Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/DashboardTableau03BestSellingVideoGames/DashboardBSVG001)
 
 <br>
 
-3) [Fake Bills](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2003%20Fake%20Bills.ipynb)
+4) [Fake Bills](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2004%20Fake%20Bills.ipynb)
   
     Below is a link to a Tableau chart relevant to the Fake Bills project above:
   
-    - [Fake Bills Average Dimension Measurements Chart](https://public.tableau.com/app/profile/jerson.cruz/viz/FakevsRealBillsChart/ChartFB001)
+    - [Fake Bills Average Dimension Measurements Chart](https://public.tableau.com/app/profile/jerson.cruz/viz/DashboardTableau04FakeBills/ChartFB001)
 
 <br>
 
