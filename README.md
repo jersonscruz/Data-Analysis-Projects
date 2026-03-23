@@ -65,4 +65,4 @@ Below is a list of course certifications I have completed:
 
 7) [Udemy: Data Warehouse](https://www.udemy.com/certificate/UC-87c23710-a0d9-4f2f-866b-662d1d31b73e/)
 
-8) [Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
+8) [Udemy: SQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
